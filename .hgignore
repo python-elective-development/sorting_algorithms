@@ -1,0 +1,6 @@
+~$
+kate-swp$
+ve
+python_notes/_build
+doc/.*chunks
+\.pyc$
